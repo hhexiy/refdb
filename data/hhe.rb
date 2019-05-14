@@ -529,13 +529,55 @@ entry!('levy2013memory',
 )
 
 entry!('zhang2019paws',
-       title('{PAWS}: Paraphrase Adversaries from Word Scrambling'),
-       author('Yuan Zhang and Jason Baldridge and Luheng He'),
-       naacl(2019),
-      )
+  title('{PAWS}: Paraphrase Adversaries from Word Scrambling'),
+  author('Yuan Zhang and Jason Baldridge and Luheng He'),
+  naacl(2019),
+)
 
 entry!('mccoy2019hans',
-       title('Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference'),
-       author('R. Thomas McCoy and Ellie Pavlick and Tal Linzen'),
-       arxiv(2019, '1902.01007'),
-      )
+  title('Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference'),
+  author('R. Thomas McCoy and Ellie Pavlick and Tal Linzen'),
+  arxiv(2019, '1902.01007'),
+)
+
+entry!('torralba2011unbiased',
+  title('Unbiased Look at Dataset Bias'),
+  author('Antonio Torralba and Alyosha Efros'),
+  cvpr(2011),
+)
+
+entry!('gonen2019lipstick',
+  title('Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them'),
+  author('Hila Gonen and Yoav Goldberg'),
+  arxiv(2019, '1903.03862'),
+)
+
+entry!('zhao2018gender',
+  title('Gender Bias in Coreference Resolution:Evaluation and Debiasing Methods'),
+  author('Jieyu Zhao and Tianlu Wang and Mark Yatskar and Vicente Ordonez and Kai-Wei Chang'),
+  naacl(2018),
+)
+
+entry!('wang2019learning',
+  title('Learning Robust Representations by Projecting Superficial Statistics Out'),
+  author('Haohan Wang and Zexue He and Zachary C. Lipton and Eric P. Xing'),
+  iclr(2019),
+)
+
+entry!('chen2017enhanced',
+  title('Enhanced {LSTM} for Natural Language Inference'),
+  author('Qian Chen and Xiaodan Zhu and Zhenhua Ling and Si Wei and Hui Jiang and Diana Inkpen'),
+  acl(2017),
+)
+
+entry!('hou2016natural',
+  title('Natural Language Inference by Tree-Based Convolution and Heuristic Matching'),
+  author('Lili Mou and Rui Men and Ge Li and Yan Xu and Lu Zhang and Rui Yan and Zhi Jin'),
+  acl(2016),
+)
+
+entry!('naik2018stress',
+  title('Stress Test Evaluation for Natural Language Inference'),
+  author('Aakanksha Naik and Abhilasha Ravichander and Norman Sadeh and Carolyn Rose and Graham Neubig'),
+  coling(2018),
+)
