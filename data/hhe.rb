@@ -527,3 +527,15 @@ entry!('levy2013memory',
   author('Roger Levy'),
   incollection('Sentence Processing', 2013),
 )
+
+entry!('zhang2019paws',
+       title('{PAWS}: Paraphrase Adversaries from Word Scrambling'),
+       author('Yuan Zhang and Jason Baldridge and Luheng He'),
+       naacl(2019),
+      )
+
+entry!('mccoy2019hans',
+       title('Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference'),
+       author('R. Thomas McCoy and Ellie Pavlick and Tal Linzen'),
+       arxiv(2019, '1902.01007'),
+      )
