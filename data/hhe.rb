@@ -587,3 +587,21 @@ entry!('glockner2018breaking',
   author('Max Glockner and Vered Shwartz and Yoav Goldberg'),
   acl(2018),
 )
+
+entry!('byrd2019importance',
+  title('What is the effect of Importance Weighting in Deep Learning'),
+  author('Jonathon Byrd and Zachary C. Lipton'),
+  icml(2019),
+)
+
+entry!('lipton2018detecting',
+  title('Detecting and Correcting for Label Shift with Black Box Predictors'),
+  author('Zachary C. Lipton and Yu-Xiang Wang and Alexander J. Smola'),
+  icml(2018),
+)
+
+entry!('scholkopf2012causal',
+  title('On Causal and Anticausal Learning'),
+  author('Bernhard Scholkopf and Dominik Janzing and Jonas Peters and Eleni Sgouritsa and Kun Zhang and Joris Mooij'),
+  icml(2012),
+)
