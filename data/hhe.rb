@@ -581,3 +581,9 @@ entry!('naik2018stress',
   author('Aakanksha Naik and Abhilasha Ravichander and Norman Sadeh and Carolyn Rose and Graham Neubig'),
   coling(2018),
 )
+
+entry!('glockner2018breaking',
+  title('Breaking {NLI} Systems with Sentences that Require Simple Lexical Inferences'),
+  author('Max Glockner and Vered Shwartz and Yoav Goldberg'),
+  acl(2018),
+)

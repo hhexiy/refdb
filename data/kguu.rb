@@ -372,7 +372,7 @@ entry!('conneau2017supervised',
 nil)
 
 entry!('gururangan2018annotation',
-  arxiv(2018, '1803.02324'),
+  naacl(2018),
   title('Annotation artifacts in natural language inference data'),
   author('Suchin Gururangan and Swabha Swayamdipta and Omer Levy and Roy Schwartz and Samuel R Bowman and Noah A Smith'),
 nil)
