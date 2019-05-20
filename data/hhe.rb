@@ -605,3 +605,48 @@ entry!('scholkopf2012causal',
   author('Bernhard Scholkopf and Dominik Janzing and Jonas Peters and Eleni Sgouritsa and Kun Zhang and Joris Mooij'),
   icml(2012),
 )
+
+entry!('zhang2019selection',
+  author('Guanhua Zhang and Bing Bai and Jian Liang and Kun Bai and Shiyu Chang and Mo Yu and Conghui Zhu and Tiejun Zhao'),
+  title('Selection Bias Explorations and Debias Methods for Natural Language Sentence Matching Datasets'),
+  acl(2019),
+  url('https://arxiv.org/pdf/1905.06221.pdf'),
+)
+
+entry!('liu2019inoculation',
+  title('Inoculation by Fine-Tuning: A Method for Analyzing Challenge Datasets'),
+  author('Nelson F. Liu and Roy Schwartz and Noah A. Smith'),
+  naacl(2019),
+)
+
+entry!('zhao2017men',
+  author('Jieyu Zhao and Tianlu Wang and Mark Yatskar and Vicente Ordonez and Kai-Wei Chang'),
+  title('Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints'),
+  emnlp(2017),
+)
+
+entry!('andreas2019compositional',
+  author('Jacob Andreas'),
+  title('Good-Enough Compositional Data Augmentation'),
+  arxiv(2019),
+  url('https://arxiv.org/pdf/1904.09545.pdf'),
+)
+
+entry!('karpukhin2019synthetic',
+  author('Vladimir Karpukhin and Omer Levy and Jacob Eisenstein and Marjan Ghazvininejad'),
+  title('Training on Synthetic Noise Improves Robustness to Natural Noise in Machine Translation'),
+  arxiv(2019),
+  url('https://arxiv.org/pdf/1902.01509'),
+)
+
+entry!('zhang2013domain',
+  title('Domain adaptation under target and conditional shift'),
+  author('Kun Zhang and Bernhard Schölkopf and Krikamol Muandet and Zhikun Wang'),
+  icml(2013),
+)
+
+entry!('zhao2019gender',
+  title('Gender Bias in Contextualized Word Embeddings'),
+  author('Jieyu Zhao and Tianlu Wang and Mark Yatskar and Ryan Cotterell and Vicente Ordonez and Kai-Wei Chang'),
+  naacl(2019),
+)
