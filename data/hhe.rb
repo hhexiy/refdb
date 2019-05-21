@@ -650,3 +650,27 @@ entry!('zhao2019gender',
   author('Jieyu Zhao and Tianlu Wang and Mark Yatskar and Ryan Cotterell and Vicente Ordonez and Kai-Wei Chang'),
   naacl(2019),
 )
+
+entry!('kaushik2018much',
+  author('Divyansh Kaushik and Zachary C. Lipton'),
+  title('How much reading does reading comprehension require? a critical investigation of popular benchmarks'),
+  emnlp(2018),
+)
+
+entry!('goyal2017making',
+  title('Making the {V} in {VQA} matter: Elevating the role of image understanding in Visual Question Answering'),
+  author('Yash Goyal and Tejas Khot and Douglas Summers-Stay and Dhruv Batra and Devi Parikh'),
+  cvpr(2017),
+)
+
+entry!('wang2017select',
+  title('Select-additive learning: Improving cross-individual generalization in multimodal sentiment analysis'),
+  author('Haohan Wang and Aaksha Meghawat and Louis-Philippe Morency and Eric P Xing'),
+  inproceedings('IEEE International Conference on Multimedia and Expo', 2017),
+)
+
+entry!('ganin2016domain',
+  title('Domain-adversarial training of neural networks'),
+  author('Yaroslav Ganin and Evgeniya Ustinova and Hana Ajakan and Pascal Germain and Hugo Larochelle and Fran{\c{c}}ois Laviolette and Mario Marchand and Victor Lempitsky'),
+  jmlr(2016, 17),
+)
