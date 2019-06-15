@@ -674,3 +674,15 @@ entry!('ganin2016domain',
   author('Yaroslav Ganin and Evgeniya Ustinova and Hana Ajakan and Pascal Germain and Hugo Larochelle and Fran{\c{c}}ois Laviolette and Mario Marchand and Victor Lempitsky'),
   jmlr(2016, 17),
 )
+
+entry!('mallinson2017paraphrase',
+  title('Paraphrasing Revisited with Neural Machine Translation'),
+  author('Jonathan Mallinson and Rico Sennrich and Mirella Lapata'),
+  acl(2017),
+)
+
+entry!('zhang2019bertscore',
+  title('{BERTSCORE}: Evaluating Text Generation with {BERT}'),
+  author('Tianyi Zhang and Varsha Kishore and Felix Wu and Kilian Q. Weinberger and Yoav Artzi'),
+  arxiv(2019, '1904.09675')
+)
