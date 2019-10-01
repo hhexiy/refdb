@@ -686,3 +686,46 @@ entry!('zhang2019bertscore',
   author('Tianyi Zhang and Varsha Kishore and Felix Wu and Kilian Q. Weinberger and Yoav Artzi'),
   arxiv(2019, '1904.09675')
 )
+
+entry!('clark2019ensemble',
+  title('Don\'t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases'),
+  author('Christopher Clark and Mark Yatskar and Luke Zettlemoyer'),
+  emnlp(2019)
+)
+
+entry!('tsipras2019robustness',
+  title('Robustness May Be at Odds with Accuracy'),
+  author('Dimitris Tsipras and Shibani Santurkar and Logan Engstrom and Alexander Turner and Aleksander Madry'),
+  iclr(2019)
+)
+
+entry!('zellers2019hellaswag',
+  title('{HellaSwag}: Can a Machine Really Finish Your Sentence?'),
+  author('Rowan Zellers and Ari Holtzman and Yonatan Bisk and Ali Farhadi and Yejin Choi'),
+  acl(2019)
+)
+
+entry!('sakaguchi2019winogrande',
+  title('{WINOGRANDE}: An Adversarial Winograd Schema Challenge at Scale'),
+  author('Keisuke Sakaguchi and Ronan Le Bras and Chandra Bhagavatula and Yejin Choi'),
+  arxiv(2019, '1907.10641')
+)
+
+entry!('belinkov2019adversarial',
+  title('Don\'t Take the Premise for Granted: Mitigating Artifacts in Natural Language Inference'),
+  author('Yonatan Belinkov and Adam Poliak and Stuart M. Shieber and Benjamin Van Durme and Alexander M. Rush'),
+  acl(2019)
+)
+
+entry!('agrawal2016analyzing',
+  title('Analyzing the Behavior of Visual Question Answering Models'),
+  author('Aishwarya Agrawal and Dhruv Batra and Devi Parikh'),
+  emnlp(2016)
+)
+
+entry!('zhao2018neutral',
+  title('Learning Gender-Neutral Word Embeddings'),
+  author('Jieyu Zhao and Yichao Zhou and Zeyu Li and Wei Wang and Kai-Wei Chang'),
+  emnlp(2018)
+)
+
