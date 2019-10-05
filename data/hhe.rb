@@ -729,3 +729,20 @@ entry!('zhao2018neutral',
   emnlp(2018)
 )
 
+entry!('das2007survey',
+  title('A Survey on Automatic Text Summarization'),
+  author('Dipanjan Das and Andre F. T. Martins'),
+  article('Technical Report', 2007)
+)
+
+entry!('welleck2019dialogue',
+  title('Dialogue Natural Language Inference'),
+  author('Sean Welleck and Jason Weston and Arthur Szlam and Kyunghyun Cho'),
+  acl(2019)
+)
+
+entry!('martindale2019identifying',
+  title('Identifying Fluently Inadequate Output in Neural and Statistical Machine Translation'),
+  author('Marianna J. Martindale and Marine Carpuat and Kevin Duh and Paul McNamee'),
+  inproceedings('MT Summit XVII', 2019)
+)
