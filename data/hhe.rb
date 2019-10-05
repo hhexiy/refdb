@@ -770,3 +770,33 @@ entry!('falke2019ranking',
   author('Tobias Falke and Leonardo F. R. Ribeiro and Prasetya Ajie Utama and Ido Dagan and Iryna Gurevych'),
   acl(2019),
 )
+
+entry!('sun2019feasibility',
+  author('Simeng Sun and Ani Nenkova'),
+  title('The Feasibility of Embedding Based Automatic Evaluation for Single Document Summarization'),
+  emnlp(2019),
+)
+
+entry!('clark2019sentence',
+  title('Sentence Mover’s Similarity: Automatic Evaluation for Multi-Sentence Texts'),
+  author('Elizabeth Clark and Asli Celikyilmaz and Noah A. Smith'),
+  acl(2019),
+)
+
+entry!('chen2018fast',
+  title('Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting'),
+  author('Yen-Chun Chen and Mohit Bansal'),
+  acl(2018),
+)
+
+entry!('narayan2018details',
+  title('Don\'t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization'),
+  author('Shashi Narayan and Shay B. Cohen and Mirella Lapata'),
+  emnlp(2018),
+)
+
+entry!('peyrard2019studying',
+  title('Studying Summarization Evaluation Metrics in the Appropriate Scoring Range'),
+  author('Maxime Peyrard'),
+  acl(2019),
+)
