@@ -800,3 +800,9 @@ entry!('peyrard2019studying',
   author('Maxime Peyrard'),
   acl(2019),
 )
+
+entry!('sun2019compare',
+  title('How to Compare Summarizers without Target Length? Pitfalls, Solutions and Re-Examination of the Neural Summarization Literature'),
+  author('Simeng Sun and Ori Shapira and Ido Dagan and Ani Nenkova'),
+  hltnaacl(2019),
+)
