@@ -746,3 +746,45 @@ entry!('martindale2019identifying',
   author('Marianna J. Martindale and Marine Carpuat and Kevin Duh and Paul McNamee'),
   inproceedings('MT Summit XVII', 2019)
 )
+
+entry!('li2018ensure',
+  title('Ensure the Correctness of the Summary: Incorporate Entailment Knowledge into Abstractive Sentence Summarization'),
+  author('Haoran Li and Junnan Zhu and Jiajun Zhang and Chengqing Zong'),
+  coling(2018),
+)
+
+entry!('kryscinski2019neural',
+  author('Wojciech Kryściński and Nitish Shirish Keskar and Bryan McCann and Caiming Xiong and Richard Socher'),
+  title('Neural Text Summarization: A Critical Evaluation'),
+  emnlp(2019),
+)
+
+entry!('lebanoff2019analyzing',
+  title('Analyzing Sentence Fusion in Abstractive Summarization'),
+  author('Logan Lebanoff and John Muchovej and Franck Dernoncourt and Doo Soon Kim and Seokhwan Kim and Walter Chang and Fei Liu'),
+  arxiv(2019, '1910.00203'),
+)
+
+entry!('goodrich2019assessing',
+  title('Assessing The Factual Accuracy of Generated Text'),
+  author('Ben Goodrich and Vinay Rao and Peter J. Liu and Mohammad Saleh'),
+  kdd(2019),
+)
+
+entry!('eyal2019question',
+  title('Question Answering as an Automatic Evaluation Metric for News Article Summarization'),
+  author('Matan Eyal and Tal Baumel and Michael Elhadad'),
+  hltnaacl(2019),
+)
+
+entry!('cao2018faithful',
+  title('Faithful to the Original: Fact Aware Neural Abstractive Summarization'),
+  author('Ziqiang Cao and Furu Wei and Wenjie Li and Sujian Li'),
+  aaai(2018),
+)
+
+entry!('falke2019ranking',
+  title('Ranking Generated Summaries by Correctness: An Interesting but Challenging Application for Natural Language Inference'),
+  author('Tobias Falke and Leonardo F. R. Ribeiro and Prasetya Ajie Utama and Ido Dagan and Iryna Gurevych'),
+  acl(2019),
+)
