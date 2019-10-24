@@ -824,3 +824,21 @@ entry!('sun2019compare',
   author('Simeng Sun and Ori Shapira and Ido Dagan and Ani Nenkova'),
   hltnaacl(2019),
 )
+
+entry!('kusner2015word',
+  title('From Word Embeddings To Document Distances'),
+  author('Matt J. Kusner and Yu Sun and Nicholas I. Kolkin and Kilian Q. Weinberger'),
+  icml(2015)
+)
+
+entry!('wiseman2017challenges',
+  title('Challenges in Data-to-Document Generation '),
+  author('Sam Wiseman and Stuart M Shieber and Alexander M. Rush'),
+  emnlp(2017)
+)
+
+entry!('guu2018transforming',
+  title('Transforming Question Answering Datasets Into Natural Language Inference Datasets'),
+  author('Demszky, D. and Guu, K. and Liang, P'),
+  arxiv(2018, '1809.02922')
+)
