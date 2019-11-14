@@ -131,6 +131,7 @@ def emnlpconll2012; [emnlpconll(2012), address('Jeju Island, South Korea')] end
 def conll(year); [inproceedings(Name.new('Computational Natural Language Learning', 'CoNLL'), year)] end
 def conll2010; [conll(2010), address('Uppsala, Sweden')] end
 def lrec(year); [inproceedings(Name.new('Language Resources and Evaluation Conference', 'LREC'), year)] end
+def sigdial(year); [inproceedings(Name.new('Special Interest Group on Discourse and Dialogue', 'SigDial'), year)] end
 
 def icassp(year); [inproceedings(Name.new('International Conference on Acoustics, Speech, and Signal Processing', 'ICASSP'), year)] end
 def icslp(year); [inproceedings(Name.new('International Conference on Spoken Language Processing', 'ICSLP'), year)] end

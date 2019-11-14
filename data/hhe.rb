@@ -842,3 +842,22 @@ entry!('guu2018transforming',
   author('Demszky, D. and Guu, K. and Liang, P'),
   arxiv(2018, '1809.02922')
 )
+
+entry!('reddy2019coqa',
+  title('CoQA: A Conversational Question Answering Challenge'),
+  author('Siva Reddy and Danqi Chen and Christopher D. Manning'),
+  tacl(2019, 3)
+)
+
+entry!('zhou2019coach',
+  title('A Dynamic Strategy Coach for Effective Negotiation'),
+  author('Yiheng Zhou and He He and Alan W Black and Yulia Tsvetkov'),
+  sigdial(2019)
+)
+
+entry!('he2019unlearn',
+  title('Unlearn Dataset Bias for Natural Language Inference by Fitting the Residual'),
+  author('He He and Sheng Zha and Haohan Wang'),
+  inproceedings('Proceedings of the EMNLP Workshop on Deep Learning for Low-Resource {NLP}', 2019),
+
+)
