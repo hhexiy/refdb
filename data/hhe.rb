@@ -806,3 +806,15 @@ entry!('sun2019compare',
   author('Simeng Sun and Ori Shapira and Ido Dagan and Ani Nenkova'),
   hltnaacl(2019),
 )
+
+entry!('lample2019multiple',
+  title('Multiple-Attribute Text Rewriting'),
+  author('Guillaume Lample and Sandeep Subramanian and Eric Michael Smith and Ludovic Denoyer and Marc\'Aurelio Ranzato1 and Y-Lan Boureau'),
+  iclr(2019),
+)
+
+entry!('elazar2018adversarial',
+  title('Adversarial Removal of Demographic Attributes from Text Data'),
+  author('Yanai Elazar and Yoav Goldberg'),
+  emnlp(2018),
+)
