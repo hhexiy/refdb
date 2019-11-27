@@ -729,6 +729,24 @@ entry!('zhao2018neutral',
   emnlp(2018)
 )
 
+entry!('das2007survey',
+  title('A Survey on Automatic Text Summarization'),
+  author('Dipanjan Das and Andre F. T. Martins'),
+  article('Technical Report', 2007)
+)
+
+entry!('welleck2019dialogue',
+  title('Dialogue Natural Language Inference'),
+  author('Sean Welleck and Jason Weston and Arthur Szlam and Kyunghyun Cho'),
+  acl(2019)
+)
+
+entry!('martindale2019identifying',
+  title('Identifying Fluently Inadequate Output in Neural and Statistical Machine Translation'),
+  author('Marianna J. Martindale and Marine Carpuat and Kevin Duh and Paul McNamee'),
+  inproceedings('MT Summit XVII', 2019)
+)
+
 entry!('li2018ensure',
   title('Ensure the Correctness of the Summary: Incorporate Entailment Knowledge into Abstractive Sentence Summarization'),
   author('Haoran Li and Junnan Zhu and Jiajun Zhang and Chengqing Zong'),
@@ -816,5 +834,80 @@ entry!('lample2019multiple',
 entry!('elazar2018adversarial',
   title('Adversarial Removal of Demographic Attributes from Text Data'),
   author('Yanai Elazar and Yoav Goldberg'),
-  emnlp(2018),
+  emnlp(2018)
+)
+
+entry!('kusner2015word',
+  title('From Word Embeddings To Document Distances'),
+  author('Matt J. Kusner and Yu Sun and Nicholas I. Kolkin and Kilian Q. Weinberger'),
+  icml(2015)
+)
+
+entry!('wiseman2017challenges',
+  title('Challenges in Data-to-Document Generation '),
+  author('Sam Wiseman and Stuart M Shieber and Alexander M. Rush'),
+  emnlp(2017)
+)
+
+entry!('guu2018transforming',
+  title('Transforming Question Answering Datasets Into Natural Language Inference Datasets'),
+  author('Demszky, D. and Guu, K. and Liang, P'),
+  arxiv(2018, '1809.02922')
+)
+
+entry!('reddy2019coqa',
+  title('CoQA: A Conversational Question Answering Challenge'),
+  author('Siva Reddy and Danqi Chen and Christopher D. Manning'),
+  tacl(2019, 3)
+)
+
+entry!('zhou2019coach',
+  title('A Dynamic Strategy Coach for Effective Negotiation'),
+  author('Yiheng Zhou and He He and Alan W Black and Yulia Tsvetkov'),
+  sigdial(2019)
+)
+
+entry!('he2019unlearn',
+  title('Unlearn Dataset Bias for Natural Language Inference by Fitting the Residual'),
+  author('He He and Sheng Zha and Haohan Wang'),
+  inproceedings('Proceedings of the EMNLP Workshop on Deep Learning for Low-Resource {NLP}', 2019),
+)
+
+entry!('gardner2017allennlp',
+  title('AllenNLP: A Deep Semantic Natural Language Processing Platform'),
+  author('Matt Gardner and Joel Grus and Mark Neumann and Oyvind Tafjord
+    and Pradeep Dasigi and Nelson F. Liu and Matthew Peters and
+    Michael Schmitz and Luke S. Zettlemoyer'),
+  arxiv(2017, '1803.07640')
+)
+
+entry!('grissom2014verb',
+  title('Don\'t Until the Final Verb Wait: Reinforcement Learning for Simultaneous Machine Translation'),
+  author("Alvin Grissom II and He He and John Morgan and Jordan Boyd-Graber and Hal Daum\'e III"),
+  emnlp(2014)
+)
+
+entry!('he2012imitation',
+  title('Imitation Learning by Coaching'),
+  author("He He and Hal Daum\'e III and Jason Eisner"),
+  nips(2012)
+)
+
+entry!('he2016opponent',
+  title('Opponent Modeling in Deep Reinforcement Learning'),
+  author("He He and Jordan Boyd-Graber and Kevin Kwok and Hal Daum\'e III"),
+  icml(2016)
+)
+
+entry!('hauer2017boostrapping',
+  title('Bootstrapping Unsupervised Bilingual Lexicon Induction'),
+  author('Bradley Hauer and Garrett Nicolai and Grzegorz Kondrak'),
+  eacl(2017)
+)
+
+entry!('radford2019language',
+  title('Language Models are Unsupervised Multitask Learners'),
+  author('Radford, Alec and Wu, Jeff and Child, Rewon and Luan, David and Amodei, Dario and Sutskever, Ilya'),
+  article('', 2019),
+  url('https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf')
 )
