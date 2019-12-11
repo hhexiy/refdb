@@ -754,7 +754,7 @@ entry!('li2018ensure',
 )
 
 entry!('kryscinski2019neural',
-  author('Wojciech Kryściński and Nitish Shirish Keskar and Bryan McCann and Caiming Xiong and Richard Socher'),
+  author("Wojciech Kry\\'{s}ci\\'{n}ski and Nitish Shirish Keskar and Bryan McCann and Caiming Xiong and Richard Socher"),
   title('Neural Text Summarization: A Critical Evaluation'),
   emnlp(2019),
 )
@@ -910,4 +910,76 @@ entry!('radford2019language',
   author('Radford, Alec and Wu, Jeff and Child, Rewon and Luan, David and Amodei, Dario and Sutskever, Ilya'),
   article('', 2019),
   url('https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf')
+)
+
+entry!('kryscinski2019evaluating',
+  title('Evaluating the Factual Consistency of Abstractive Text Summarization'),
+  author("Wojciech Kry\\'{s}ci\\'{n}ski and Bryan McCann and Caiming Xiong and Richard Socher"),
+  arxiv(2019, '1910.12840')
+)
+
+entry!('grusky2018newsroom',
+  title('Newsroom: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies'),
+  author('Max Grusky and Mor Naaman and and Yoav Artzi'),
+  naacl(2018)
+)
+
+entry!('zhang2018abstractiveness',
+  title("On the Abstractiveness of Neural Document Summarization"),
+  author('Fangfang Zhang and Jin-ge Yao and Rui Yan1'),
+  emnlp(2018)
+)
+
+entry!('scialom2019answers',
+  title("Answers Unite! Unsupervised Metrics for Reinforced Summarization Models"),
+  author('Thomas Scialom and Sylvain Lamprier and Benjamin Piwowarski and Jacopo Staiano'),
+  emnlp(2019)
+)
+
+entry!('clarke2010discourse',
+  title("Discourse Constraints for Document Compression"),
+  author('James Clarke and Mirella Lapata'),
+  computationalLinguistics(2010, 36)
+)
+
+entry!('liu2019text',
+  title("Text Summarization with Pretrained Encoders"),
+  author('Yang Liu and Mirella Lapata'),
+  emnlp(2019)
+)
+
+entry!('chen2018semantic',
+  title('A Semantic {QA}-Based Approach for Text Summarization Evaluation'),
+  author('Ping Chen and Fei Wu and Tong Wang and Wei Ding'),
+  aaai(2018)
+)
+
+entry!('fitzgerald2018large',
+  title("Large-Scale {QA}-{SRL} Parsing"),
+  author('Nicholas FitzGerald and Julian Michael and Luheng He and Luke Zettlemoyer'),
+  acl(2018)
+)
+
+entry!('gardner2019question',
+  title('Question Answering is a Format; When is it Useful?'),
+  author('Matt Gardner and Jonathan Berant and Hannaneh Hajishirzi and Alon Talmor and Sewon Min'),
+  arxiv(2019, '1909.11291')
+)
+
+entry!('holtzman2019curious',
+  title('The Curious Case of Neural Text Degeneration'),
+  author('Ari Holtzman and Jan Buys and Maxwell Forbes and Yejin Choi'),
+  arxiv(2019, '1904.09751')
+)
+
+entry!('tu2017neural',
+  title('Neural Machine Translation with Reconstruction'),
+  author('Zhaopeng Tu and Yang Liu and Lifeng Shang and Xiaohua Liu and Hang Li'),
+  aaai(2017)
+)
+
+entry!('li2019dont',
+  title("Don't Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training"),
+  author('Margaret Li and Stephen Roller and Ilia Kulikov and Sean Welleck and Y-Lan Boureau and Kyunghyun Cho and Jason Weston'),
+  arxiv(2019, '1911.03860')
 )
