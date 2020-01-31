@@ -317,8 +317,7 @@ entry!('zhao2017learning',
 entry!('jang2017categorical',
   title('Categorical Reparameterization with {G}umbel-Softmax'),
   author('Eric Jang and Shixiang Gu and Ben Poole'),
-  arxiv(2017, '1611.01144'),
-  url('https://arxiv.org/pdf/1611.01144.pdf'),
+  arxiv(2017, '1611.01144')
 )
 
 entry!('das2017learning',
@@ -609,8 +608,7 @@ entry!('scholkopf2012causal',
 entry!('zhang2019selection',
   author('Guanhua Zhang and Bing Bai and Jian Liang and Kun Bai and Shiyu Chang and Mo Yu and Conghui Zhu and Tiejun Zhao'),
   title('Selection Bias Explorations and Debias Methods for Natural Language Sentence Matching Datasets'),
-  acl(2019),
-  url('https://arxiv.org/pdf/1905.06221.pdf'),
+  acl(2019, '1905.06221'),
 )
 
 entry!('liu2019inoculation',
@@ -628,15 +626,13 @@ entry!('zhao2017men',
 entry!('andreas2019compositional',
   author('Jacob Andreas'),
   title('Good-Enough Compositional Data Augmentation'),
-  arxiv(2019),
-  url('https://arxiv.org/pdf/1904.09545.pdf'),
+  arxiv(2019, '1904.09545')
 )
 
 entry!('karpukhin2019synthetic',
   author('Vladimir Karpukhin and Omer Levy and Jacob Eisenstein and Marjan Ghazvininejad'),
   title('Training on Synthetic Noise Improves Robustness to Natural Noise in Machine Translation'),
-  arxiv(2019),
-  url('https://arxiv.org/pdf/1902.01509'),
+  arxiv(2019, '1902.01509')
 )
 
 entry!('zhang2013domain',
@@ -982,4 +978,78 @@ entry!('li2019dont',
   title("Don't Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training"),
   author('Margaret Li and Stephen Roller and Ilia Kulikov and Sean Welleck and Y-Lan Boureau and Kyunghyun Cho and Jason Weston'),
   arxiv(2019, '1911.03860')
+)
+
+entry!('sagawa2020distributionally',
+  title('Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization'),
+  author('Shiori Sagawa and Pang Wei Koh and Tatsunori B. Hashimoto and Percy Liang'),
+  iclr(2020)
+)
+
+entry!('hendrycks2019pretraining',
+  title('Using Pre-Training Can Improve Model Robustness and Uncertainty'),
+  author('Dan Hendrycks and Kimin Lee and Mantas Mazeika'),
+  icml(2019)
+)
+
+entry!('oren2019distributionally',
+  title('Distributionally Robust Language Modeling'),
+  author('Yonatan Oren and Shiori Sagawa and Tatsunori B. Hashimoto and Percy Liang'),
+  emnlp(2019)
+)
+
+entry!('hendrycks2019self',
+  title('Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty'),
+  author('Dan Hendrycks and Mantas Mazeika and Saurav Kadavath and Dawn Song'),
+  nips(2019)
+)
+
+entry!('kaushik2020learning',
+  title('Learning the Difference that Makes a Difference with Counterfactually-Augmented Data'),
+  author('Divyansh Kaushik and Eduard Hovy and Zachary C. Lipton'),
+  iclr(2020)
+)
+
+entry!('iyer2017qqp',
+  title('First Quora Dataset Release: Question Pairs'),
+  author("Shankar Iyer and Nikhil Dandekar and Korn\'el Csernai"),
+  webpage(2017, 'https://www.quora.com/q/quoradata/First-Quora-Dataset-Release-Question-Pairs')
+)
+
+entry!('liu2019roberta',
+  title('{R}o{BERT}a: A Robustly Optimized {BERT} Pretraining Approach'),
+  author('Yinhan Liu and Myle Ott and Naman Goyal and Jingfei Du and Mandar Joshi and Danqi Chen and Omer Levy and Mike Lewis and Luke Zettlemoyer and Veselin Stoyanov'),
+  arxiv(2019, '1907.11692') 
+)
+
+entry!('baxter2000model',
+  title('A Model of Inductive Bias Learning'),
+  author('Jonathan Baxter'),
+  jair(2000, 12),
+  pages(149, 198)
+)
+
+entry!('maurer2016benefit',
+  title('The Benefit of Multitask Representation Learning'),
+  author('Andreas Maurer and Massimiliano Pontil and Bernardino Romera-Paredes'),
+  jmlr(2016, 17),
+  pages(1, 32)
+)
+
+entry!('raffel2019exploring',
+  title('Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer'),
+  author('Colin Raffel and Noam Shazeer and Adam Roberts and Katherine Lee and Sharan Narang and Michael Matena and Yanqi Zhou and Wei Li and Peter J. Liu'),
+  arxiv(2019, '1910.10683')
+)
+
+entry!('cer2017stsb',
+  title('{S}em{E}val-2017 Task 1: Semantic Textual Similarity - Multilingual and Cross-lingual Focused Evaluation'),
+  author("Daniel Cer and Mona Diab and Eneko Agirre and I\~nigo Lopez-Gazpio and Lucia Specia"),
+  inproceedings('Proceedings of the Eleventh International Workshop on Semantic Evaluations', 2017)
+)
+
+entry!('dolan2005mrpc',
+  title('Automatically Constructing a Corpus of Sentential Paraphrases'),
+  author('William B Dolan and Chris Brockett'),
+  inproceedings('Proceedings of the International Workshop on Paraphrasing', 2005)
 )

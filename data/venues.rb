@@ -31,6 +31,7 @@ def berkeleyStat(year); techreport(Name.new('Department of Statistics, Universit
 def berkeleyEECS(year); techreport(Name.new('EECS Department, University of California at Berkeley', 'UC Berkeley'), year) end
 def mit(year); techreport('Massachusetts Institute of Technology', year) end
 def arxiv(year, id=nil); [article('arXiv' + (id != nil ? ' preprint arXiv:'+id : ''), year, nil), id && url('https://arxiv.org/pdf/' + id + '.pdf')].compact end
+def webpage(year, url); [article('Accessed online at ' + url, year, nil)] end
 def preprint(year); article('preprint', year, nil) end
 def manual(year); [type('manual'), year(year)] end
 
