@@ -608,7 +608,7 @@ entry!('scholkopf2012causal',
 entry!('zhang2019selection',
   author('Guanhua Zhang and Bing Bai and Jian Liang and Kun Bai and Shiyu Chang and Mo Yu and Conghui Zhu and Tiejun Zhao'),
   title('Selection Bias Explorations and Debias Methods for Natural Language Sentence Matching Datasets'),
-  acl(2019, '1905.06221'),
+  acl(2019),
 )
 
 entry!('liu2019inoculation',
@@ -1053,3 +1053,17 @@ entry!('dolan2005mrpc',
   author('William B Dolan and Chris Brockett'),
   inproceedings('Proceedings of the International Workshop on Paraphrasing', 2005)
 )
+
+entry!('huszar2016how',
+  title('How (not) to Train your Generative Model: Scheduled Sampling, Likelihood, Adversary?'),
+  author("Ferenc Husz\\'ar"),
+  arxiv(2016, '1511.05101')
+)
+
+entry!('choshen2020weaknesses',
+  title('On the Weaknesses of Reinforcement Learning for Neural Machine Translation'),
+  author('Leshem Choshen and Lior Fox and Zohar Aizenbud and Omri Abend'),
+  iclr(2020)
+)
+
+
