@@ -3,11 +3,6 @@ entry!('banerjee2005meteor',
        author('Satanjeev Banerjee and Alon Lavie'),
        acl(2005),
  nil)
-entry!('languagegans2018',
-       title('Language GANs Falling Short'),
-       author('Massimo Caccia and Lucas Caccia and William Fedus and Hugo Larochelle and Joelle Pineau and Laurent Charlin '),
-       arxiv(2018, "1811.02549"),
-nil)
 entry!('fan2018hierarchical',
        title('Hierarchical Neural Story Generation'),
        author('Angela Fan and Mike Lewis and Yann Dauphin'),

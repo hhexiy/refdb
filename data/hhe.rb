@@ -1066,4 +1066,32 @@ entry!('choshen2020weaknesses',
   iclr(2020)
 )
 
+entry!('precup2000eligibility',
+  title("Eligibility Traces for Off-Policy Policy Evaluation"),
+  author('Doina Precup and Richard S. Sutton and Satinder Singh'),
+  article('Computer Science Department Faculty Publication Series, UMass Amherst', 2000)
+)
 
+entry!('levine2020offline',
+  title("Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems"),
+  author('Sergey Levine and Aviral Kumar and George Tucker and Justin Fu'),
+  arxiv(2020, '2005.01643')
+)
+
+entry!('schulman2015trust',
+  title('Trust Region Policy Optimization'),
+  author('John Schulman and Sergey Levine and Philipp Moritz and Michael I. Jordan and Pieter Abbeel'),
+  icml(2015)
+)
+
+entry!('tevet2019evaluating',
+  title('Evaluating Text {GAN}s as Language Models'),
+  author('Guy Tevet and Gavriel Habib and Vered Shwartz and Jonathan Berant'),
+  naacl(2019)
+)
+
+entry!('caccia2020language',
+  title('Language {GAN}s Falling Short'),
+  author('Massimo Caccia and Lucas Caccia and William Fedus and Hugo Larochelle and Joelle Pineau and Laurent Charlin'),
+  iclr(2020)
+)
