@@ -679,10 +679,3 @@ entry!('talmor2018commonsenseqa',
   url('https://arxiv.org/pdf/1811.00937.pdf'),
 nil)
 
-entry!('tevet2018evaluating',
-  arxiv(2018, '1810.12686'),
-  title('Evaluating Text {GAN}s as Language Models'),
-  author('Guy Tevet and Gavriel Habib and Vered Shwartz and Jonathan Berant'),
-  url('https://arxiv.org//1810.12686.pdf'),
-  
-nil)

@@ -1089,3 +1089,45 @@ entry!('jiang2019smart',
  author('Haoming Jiang and Pengcheng He and Weizhu Chen and Xiaodong Liu and Jianfeng Gao and Tuo Zhao'),
  arxiv(2019, '1911.03437')
 )
+
+entry!('huszar2016how',
+  title('How (not) to Train your Generative Model: Scheduled Sampling, Likelihood, Adversary?'),
+  author("Ferenc Husz\\'ar"),
+  arxiv(2016, '1511.05101')
+)
+
+entry!('choshen2020weaknesses',
+  title('On the Weaknesses of Reinforcement Learning for Neural Machine Translation'),
+  author('Leshem Choshen and Lior Fox and Zohar Aizenbud and Omri Abend'),
+  iclr(2020)
+)
+
+entry!('precup2000eligibility',
+  title("Eligibility Traces for Off-Policy Policy Evaluation"),
+  author('Doina Precup and Richard S. Sutton and Satinder Singh'),
+  article('Computer Science Department Faculty Publication Series, UMass Amherst', 2000)
+)
+
+entry!('levine2020offline',
+  title("Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems"),
+  author('Sergey Levine and Aviral Kumar and George Tucker and Justin Fu'),
+  arxiv(2020, '2005.01643')
+)
+
+entry!('schulman2015trust',
+  title('Trust Region Policy Optimization'),
+  author('John Schulman and Sergey Levine and Philipp Moritz and Michael I. Jordan and Pieter Abbeel'),
+  icml(2015)
+)
+
+entry!('tevet2019evaluating',
+  title('Evaluating Text {GAN}s as Language Models'),
+  author('Guy Tevet and Gavriel Habib and Vered Shwartz and Jonathan Berant'),
+  naacl(2019)
+)
+
+entry!('caccia2020language',
+  title('Language {GAN}s Falling Short'),
+  author('Massimo Caccia and Lucas Caccia and William Fedus and Hugo Larochelle and Joelle Pineau and Laurent Charlin'),
+  iclr(2020)
+)
