@@ -608,7 +608,7 @@ entry!('scholkopf2012causal',
 entry!('zhang2019selection',
   author('Guanhua Zhang and Bing Bai and Jian Liang and Kun Bai and Shiyu Chang and Mo Yu and Conghui Zhu and Tiejun Zhao'),
   title('Selection Bias Explorations and Debias Methods for Natural Language Sentence Matching Datasets'),
-  acl(2019, '1905.06221'),
+  acl(2019),
 )
 
 entry!('liu2019inoculation',
@@ -1052,4 +1052,40 @@ entry!('dolan2005mrpc',
   title('Automatically Constructing a Corpus of Sentential Paraphrases'),
   author('William B Dolan and Chris Brockett'),
   inproceedings('Proceedings of the International Workshop on Paraphrasing', 2005)
+)
+
+entry!('goyal2019counterfactual',
+  title('Counterfactual Visual Explanations'),
+  author('Yash Goyal and Ziyan Wu and Jan Ernst and Dhruv Batra and Devi Parikh and Stefan Lee'),
+  icml(2019)
+)
+
+entry!('yogatama2019learning',
+  title("Learning and Evaluating General Linguistic Intelligence"),
+  author("Dani Yogatama and Cyprien de Masson d'Autume and Jerome Connor and Tomas Kocisky and Mike Chrzanowski and Lingpeng Kong and Angeliki Lazaridou and Wang Ling and Lei Yu and Chris Dyer and Phil Blunsom"),
+  arxiv(2019, '1901.11373')
+)
+
+entry!('arjovsky2019invariant',
+  title("Invariant Risk Minimization"),
+  author("Martin Arjovsky and L\'eon Bottou and Ishaan Gulrajani and David Lopez-Paz"),
+  arxiv(2019, '1907.02893v2')
+)
+
+entry!('yaghoobzadeh2019robust',
+  title('Robust Natural Language Inference Models with Example Forgetting'),
+  author('Yadollah Yaghoobzadeh and Remi Tachet and T.J. Hazen and Alessandro Sordoni'),
+  arxiv(2019, '1911.03861')
+)
+
+entry!('carmon2019unlabeled',
+  title('Unlabeled Data Improves Adversarial Robustness'),
+  author('Yair Carmon and Aditi Raghunathan and Ludwig Schmidt and Percy Liang and John C. Duchi'),
+  nips(2019)
+)
+
+entry!('jiang2019smart',
+ title('{SMART}: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization'),
+ author('Haoming Jiang and Pengcheng He and Weizhu Chen and Xiaodong Liu and Jianfeng Gao and Tuo Zhao'),
+ arxiv(2019, '1911.03437')
 )
