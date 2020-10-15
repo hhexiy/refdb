@@ -623,10 +623,10 @@ entry!('zhao2017men',
   emnlp(2017),
 )
 
-entry!('andreas2019compositional',
+entry!('andreas2020compositional',
   author('Jacob Andreas'),
   title('Good-Enough Compositional Data Augmentation'),
-  arxiv(2019, '1904.09545')
+  acl(2020)
 )
 
 entry!('karpukhin2019synthetic',
@@ -1130,4 +1130,59 @@ entry!('caccia2020language',
   title('Language {GAN}s Falling Short'),
   author('Massimo Caccia and Lucas Caccia and William Fedus and Hugo Larochelle and Joelle Pineau and Laurent Charlin'),
   iclr(2020)
+)
+
+entry!('hendrycks2020pretrained',
+  title('Pretrained Transformers Improve Out-of-Distribution Robustness'),
+  author('Dan Hendrycks and Xiaoyuan Liu and Eric Wallace and Adam Dziedzic and Rishabh Krishnan and Dawn Song'),
+  acl(2020)
+)
+
+entry!('guo2020gluoncv',
+ title("GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing"),
+ author('Jian Guo and He He and Tong He and Leonard Lausen and Mu Li and Haibin Lin and Xingjian Shi and Chenguang Wang and Junyuan Xie and Sheng Zha and Aston Zhang and Hang Zhang and Zhi Zhang and Zhongyue Zhang and Shuai Zheng and Yi Zhu'),
+ jmlr(2020, 21)
+)
+
+entry!('min2020syntactic',
+  title('Syntactic Data Augmentation Increases Robustness to Inference Heuristics'),
+  author('Junghyun Min and R. Thomas McCoy and Dipanjan Das and Emily Pitler and Tal Linzen'),
+  acl(2020)
+)
+
+entry!('jha2020acl',
+  title('When Does Data Augmentation Help Generalization in {NLP}?'),
+  author('Rohan Jha and Charles Lovering and Ellie Pavlick'),
+  acl(2020)
+)
+
+entry!('zhou2020towards',
+  title('Towards Robustifying {NLI} Models Against Lexical Dataset Biases'),
+  author('Xiang Zhou and Mohit Bansal'),
+  acl(2020)
+)
+
+entry!('nye2019learning',
+  title('Learning Compositional Rules via Neural Program Synthesis'),
+  author('Maxwell I. Nye and Armando Solar-Lezama and Joshua B. Tenenbaum and Brenden M. Lake'),
+  nips(2019)
+)
+
+entry!('guo2017calibration',
+  title('On Calibration of Modern Neural Networks'),
+  author('Chuan Guo and Geoff Pleiss and Yu Sun and 
+Kilian Q. Weinberger'),
+  icml(2017)
+)
+
+entry!('zhang2020revisiting',
+  title('Revisiting Few-sample {BERT} Fine-tuning'),
+  author('Tianyi Zhang and Felix Wu and Arzoo Katiyar and Kilian Q. Weinberger and Yoav Artzi'),
+  arxiv(2020, '2006.05987')
+)
+
+entry!('mahabadi2020end',
+  title("End-to-End Bias Mitigation by Modelling Biases in Corpora"),
+  author('Rabeeh Karimi Mahabadi and Yonatan Belinkov and James Henderson'),
+  acl(2020)
 )
