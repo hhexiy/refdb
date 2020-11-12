@@ -1186,3 +1186,33 @@ entry!('mahabadi2020end',
   author('Rabeeh Karimi Mahabadi and Yonatan Belinkov and James Henderson'),
   acl(2020)
 )
+
+entry!('gardner2020evaluating',
+  title('Evaluating {NLP} Models via Contrast Sets'),
+  author('Matt Gardner and Yoav Artzi and Victoria Basmova and Jonathan Berant and Ben Bogin and Sihao Chen and Pradeep Dasigi and Dheeru Dua and Yanai Elazar and Ananth Gottumukkala and Nitish Gupta and Hanna Hajishirzi and Gabriel Ilharco and Daniel Khashabi and Kevin Lin and Jiangming Liu and Nelson F Liu and Phoebe Mulcaire and Qiang Ning and Sameer Singh and Noah A Smith and Sanjay Subramanian and Reut Tsarfaty and Eric Wallace and Ally Zhang and Ben Zhou'),
+  emnlp(2020)
+)
+
+entry!('tu2020empirical',
+  author('Lifu Tu and Garima Lalwani and Spandana Gella and He He'),
+  title('An Empirical Study on Robustness to Spurious Correlations using Pre-trained Language Models'),
+  tacl(2020, 8)
+)
+
+entry!('huang2020counterfactually',
+  title('Counterfactually-Augmented {SNLI} Training Data Does Not Yield Better Generalization Than Unaugmented Data'),
+  author('William Huang and Haokun Liu and Samuel R. Bowman'),
+  arxiv(2020, '2010.04762')
+)
+
+entry!('lewis2019bart',
+  title('{BART}: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension'),
+  author('Mike Lewis and Yinhan Liu and Naman Goyal and Marjan Ghazvininejad and Abdelrahman Mohamed and Omer Levy and Ves Stoyanov and Luke Zettlemoyer'),
+  arxiv(2019, '1910.13461')
+)
+
+entry!('ni2019emnlp',
+  title('Justifying Recommendations using Distantly-labeled Reviews and Fine-grained Aspects'),
+  author('Jianmo Ni and Jiacheng Li and and Julian McAuley'),
+  emnlp(2019)
+)
