@@ -1036,12 +1036,6 @@ entry!('maurer2016benefit',
   pages(1, 32)
 )
 
-entry!('raffel2019exploring',
-  title('Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer'),
-  author('Colin Raffel and Noam Shazeer and Adam Roberts and Katherine Lee and Sharan Narang and Michael Matena and Yanqi Zhou and Wei Li and Peter J. Liu'),
-  arxiv(2019, '1910.10683')
-)
-
 entry!('cer2017stsb',
   title('{S}em{E}val-2017 Task 1: Semantic Textual Similarity - Multilingual and Cross-lingual Focused Evaluation'),
   author("Daniel Cer and Mona Diab and Eneko Agirre and I\~nigo Lopez-Gazpio and Lucia Specia"),
@@ -1221,4 +1215,16 @@ entry!('nie2020adversarial',
   title('Adversarial {NLI}: A New Benchmark for Natural Language Understanding'),
   author('Yixin Nie and Adina Williams and Emily Dinan and Mohit Bansal and Jason Weston and Douwe Kiela†'),
   acl(2020)
+)
+
+entry!('raffel2020exploring',
+  title('Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer'),
+  author('Colin Raffel and Noam Shazeer and Adam Roberts and Katherine Lee and Sharan Narang and Michael Matena and Yanqi Zhou and Wei Li and Peter J. Liu'),
+  jmlr(2020, 21)
+)
+
+entry!('khashabi2021genie',
+  title('{GENIE}: A Leaderboard for Human-in-the-Loop Evaluation of Text Generation'),
+  author('Daniel Khashabi and Gabriel Stanovsky and Jonathan Bragg and Nicholas Lourie and Jungo Kasai and Yejin Choi and Noah A. Smith and Daniel S. Weld'),
+  arxiv(2021, '2101.06561')
 )
