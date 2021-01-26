@@ -847,7 +847,7 @@ entry!('wiseman2017challenges',
 
 entry!('guu2018transforming',
   title('Transforming Question Answering Datasets Into Natural Language Inference Datasets'),
-  author('Demszky, D. and Guu, K. and Liang, P'),
+  author('Dora Demszky and Kelvin Guu and Percy Liang'),
   arxiv(2018, '1809.02922')
 )
 
@@ -879,7 +879,7 @@ entry!('gardner2017allennlp',
 
 entry!('grissom2014verb',
   title('Don\'t Until the Final Verb Wait: Reinforcement Learning for Simultaneous Machine Translation'),
-  author("Alvin Grissom II and He He and John Morgan and Jordan Boyd-Graber and Hal Daum\'e III"),
+  author("Alvin Grissom II and He He and John Morgan and Jordan Boyd-Graber and Hal Daum\\'{e} III"),
   emnlp(2014)
 )
 
@@ -903,7 +903,7 @@ entry!('hauer2017boostrapping',
 
 entry!('radford2019language',
   title('Language Models are Unsupervised Multitask Learners'),
-  author('Radford, Alec and Wu, Jeff and Child, Rewon and Luan, David and Amodei, Dario and Sutskever, Ilya'),
+  author('Alec Radford and Jeff Wu and Rewon Child and David Luan and Dario Amodei and Ilya Sutskever'),
   article('', 2019),
   url('https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf')
 )
@@ -1130,4 +1130,29 @@ entry!('caccia2020language',
   title('Language {GAN}s Falling Short'),
   author('Massimo Caccia and Lucas Caccia and William Fedus and Hugo Larochelle and Joelle Pineau and Laurent Charlin'),
   iclr(2020)
+)
+
+entry!('ouyang2017crowd',
+  title('Crowd-Sourced Iterative Annotation for Narrative Summarization Corpora'),
+  author('Jessica Ouyang and Serina Chang and Kathy McKeown'),
+  eacl(2017)
+)
+
+entry!('carletta2005ami',
+  title('The {AMI} Meeting Corpus: A Pre-Announcement'),
+  author('Jean Carletta and Simone Ashby and Sebastien Bourban and Mike Flynn and Mael Guillemot and Thomas Hain and Jaroslav Kadlec and Vasilis Karaiskos and Wessel Kraaij and Melissa Kronenthal and Guillaume Lathoud and Mike Lincoln and Agnes Lisowska and Iain McCowan and Wilfried Post and Dennis Reidsma and Pierre Wellner'
+),
+  article('Springer Lecture Notes in Computer Science', 2005, 3869)
+)
+
+entry!('radev2000centroid',
+  title('Centroid-based Summarization of Multiple Documents: Sentence Extraction, Utility-based Evaluation, and User Studies'),
+  author('Dragomir R. Radev and Hongyan Jing and Malgorzata Budzikowska'),
+  inproceedings('Proceedings of the NAACL-ANLP 2000 Workshop: Automatic Summarization', 2000)
+)
+
+entry!('kedzie2018content',
+  title('Content Selection in Deep Learning Models of Summarization'),
+  author("Chris Kedzie and Kathleen McKeown and Daum\\'{e} III"),
+  emnlp(2018)
 )
