@@ -623,10 +623,10 @@ entry!('zhao2017men',
   emnlp(2017),
 )
 
-entry!('andreas2019compositional',
+entry!('andreas2020compositional',
   author('Jacob Andreas'),
   title('Good-Enough Compositional Data Augmentation'),
-  arxiv(2019, '1904.09545')
+  acl(2020)
 )
 
 entry!('karpukhin2019synthetic',
@@ -1155,4 +1155,95 @@ entry!('kedzie2018content',
   title('Content Selection in Deep Learning Models of Summarization'),
   author("Chris Kedzie and Kathleen McKeown and Daum\\'{e} III"),
   emnlp(2018)
+)
+
+entry!('hendrycks2020pretrained',
+  title('Pretrained Transformers Improve Out-of-Distribution Robustness'),
+  author('Dan Hendrycks and Xiaoyuan Liu and Eric Wallace and Adam Dziedzic and Rishabh Krishnan and Dawn Song'),
+  acl(2020)
+)
+
+entry!('guo2020gluoncv',
+ title("GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing"),
+ author('Jian Guo and He He and Tong He and Leonard Lausen and Mu Li and Haibin Lin and Xingjian Shi and Chenguang Wang and Junyuan Xie and Sheng Zha and Aston Zhang and Hang Zhang and Zhi Zhang and Zhongyue Zhang and Shuai Zheng and Yi Zhu'),
+ jmlr(2020, 21)
+)
+
+entry!('min2020syntactic',
+  title('Syntactic Data Augmentation Increases Robustness to Inference Heuristics'),
+  author('Junghyun Min and R. Thomas McCoy and Dipanjan Das and Emily Pitler and Tal Linzen'),
+  acl(2020)
+)
+
+entry!('jha2020acl',
+  title('When Does Data Augmentation Help Generalization in {NLP}?'),
+  author('Rohan Jha and Charles Lovering and Ellie Pavlick'),
+  acl(2020)
+)
+
+entry!('zhou2020towards',
+  title('Towards Robustifying {NLI} Models Against Lexical Dataset Biases'),
+  author('Xiang Zhou and Mohit Bansal'),
+  acl(2020)
+)
+
+entry!('nye2019learning',
+  title('Learning Compositional Rules via Neural Program Synthesis'),
+  author('Maxwell I. Nye and Armando Solar-Lezama and Joshua B. Tenenbaum and Brenden M. Lake'),
+  nips(2019)
+)
+
+entry!('guo2017calibration',
+  title('On Calibration of Modern Neural Networks'),
+  author('Chuan Guo and Geoff Pleiss and Yu Sun and 
+Kilian Q. Weinberger'),
+  icml(2017)
+)
+
+entry!('zhang2020revisiting',
+  title('Revisiting Few-sample {BERT} Fine-tuning'),
+  author('Tianyi Zhang and Felix Wu and Arzoo Katiyar and Kilian Q. Weinberger and Yoav Artzi'),
+  arxiv(2020, '2006.05987')
+)
+
+entry!('mahabadi2020end',
+  title("End-to-End Bias Mitigation by Modelling Biases in Corpora"),
+  author('Rabeeh Karimi Mahabadi and Yonatan Belinkov and James Henderson'),
+  acl(2020)
+)
+
+entry!('gardner2020evaluating',
+  title('Evaluating {NLP} Models via Contrast Sets'),
+  author('Matt Gardner and Yoav Artzi and Victoria Basmova and Jonathan Berant and Ben Bogin and Sihao Chen and Pradeep Dasigi and Dheeru Dua and Yanai Elazar and Ananth Gottumukkala and Nitish Gupta and Hanna Hajishirzi and Gabriel Ilharco and Daniel Khashabi and Kevin Lin and Jiangming Liu and Nelson F Liu and Phoebe Mulcaire and Qiang Ning and Sameer Singh and Noah A Smith and Sanjay Subramanian and Reut Tsarfaty and Eric Wallace and Ally Zhang and Ben Zhou'),
+  emnlp(2020)
+)
+
+entry!('tu2020empirical',
+  author('Lifu Tu and Garima Lalwani and Spandana Gella and He He'),
+  title('An Empirical Study on Robustness to Spurious Correlations using Pre-trained Language Models'),
+  tacl(2020, 8)
+)
+
+entry!('huang2020counterfactually',
+  title('Counterfactually-Augmented {SNLI} Training Data Does Not Yield Better Generalization Than Unaugmented Data'),
+  author('William Huang and Haokun Liu and Samuel R. Bowman'),
+  arxiv(2020, '2010.04762')
+)
+
+entry!('lewis2019bart',
+  title('{BART}: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension'),
+  author('Mike Lewis and Yinhan Liu and Naman Goyal and Marjan Ghazvininejad and Abdelrahman Mohamed and Omer Levy and Ves Stoyanov and Luke Zettlemoyer'),
+  arxiv(2019, '1910.13461')
+)
+
+entry!('ni2019emnlp',
+  title('Justifying Recommendations using Distantly-labeled Reviews and Fine-grained Aspects'),
+  author('Jianmo Ni and Jiacheng Li and and Julian McAuley'),
+  emnlp(2019)
+)
+
+entry!('nie2020adversarial',
+  title('Adversarial {NLI}: A New Benchmark for Natural Language Understanding'),
+  author('Yixin Nie and Adina Williams and Emily Dinan and Mohit Bansal and Jason Weston and Douwe Kiela†'),
+  acl(2020)
 )
