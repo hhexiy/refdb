@@ -1253,3 +1253,99 @@ entry!('khashabi2021genie',
   author('Daniel Khashabi and Gabriel Stanovsky and Jonathan Bragg and Nicholas Lourie and Jungo Kasai and Yejin Choi and Noah A. Smith and Daniel S. Weld'),
   arxiv(2021, '2101.06561')
 )
+
+entry!('cao2020factual',
+  title('Factual Error Correction for Abstractive Summarization Models'),
+  author('Meng Cao and Yue Dong and Jiapeng Wu and Jackie Chi Kit Cheung'),
+  emnlp(2020)
+)
+
+entry!('goyal2020evaluating',
+       title('Evaluating Factuality in Generation with Dependency-level Entailment'),
+       author('Tanya Goyal and Greg Durrett'),
+       emnlpfindings(2020)
+)
+
+entry!('durmus2020feqa',
+       title('{FEQA}: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization'),
+       author('Esin Durmus and He He and Mona Diab'),
+       acl(2020)
+)
+
+entry!('zhu2020boosting',
+       title('Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph'),
+       author('Chenguang Zhu and William Hinthorn and Ruochen Xu and Qingkai Zeng and Michael Zeng and Xuedong Huang and Meng Jiang'),
+       arxiv(2020, '2003.08612')
+)
+
+entry!('padmakumar2021unsupervised',
+    title('Unsupervised Extractive Summarization with Pointwise Mutual Information'),
+    author('Vishakh Padmakumar and He He'),
+    eacl(2021)
+)
+
+entry!('honnibal2020spacy',
+      title('{spaCy: Industrial-strength Natural Language Processing in Python}'),
+      author('Matthew Honnibal and Ines Montani and Sofie Van Landeghem and Adriane Boyd'),
+      book('Zenodo: https://spacy.io', 2020)
+)
+
+entry!('kim2018deep',
+      title('Tutorial on Deep Latent-Variable Models for Natural Language'),
+      author('Yoon Kim and Sam Wiseman and Alexander M. Rush'),
+      emnlp(2018)
+)
+
+entry!('ladhak2020exploring',
+       title('Exploring Content Selection in Summarization of Novel Chapters'),
+       author('Faisal Ladhak and Bryan Li and Yaser Al-Onaizan and Kathleen McKeown'),
+       acl(2020)
+)
+
+entry!('zhang2020pegasus',
+  title('{PEGASUS}: Pre-training with Extracted Gap-sentences for Abstractive Summarization'),
+  author('Jingqing Zhang and Yao Zhao and Mohammad Saleh and Peter J. Liu'),
+  icml(2020)
+)
+
+entry!('shapira2017interactive',
+      title('Interactive Abstractive Summarization for Event News Tweets'),
+      author('Ori Shapira and Hadar Ronen and Meni Adler and Yael Amsterdamer and Judit Bar-Ilan and Ido Dagan'),
+      acl(2017)
+)
+
+entry!('shapira2020evaluating',
+  title('Evaluating Interactive Summarization: an Expansion-Based Framework'),
+  author('Ori Shapira and Ramakanth Pasunuru and Hadar Ronen and Mohit Bansal and Yael Amsterdamer and Ido Dagan'),
+  arxiv(2020, '2009.08380')
+)
+
+entry!('rose2010automatic',
+       title('Text Mining: Applications and Theory'),
+       author('Stuart Rose and Dave Engel and Nick Cramer and Wendy Cowley'),
+       book('Wiley', 2010)
+)
+
+entry!('mccallum2002mallet',
+       title('{MALLET}: A Machine Learning for Language Toolkit'),
+       author('Andrew McCallum'),
+       book('http://mallet.cs.umass.edu', 2002)
+)
+
+entry!('kedzie2020controllable',
+       title('Controllable Meaning Representation to Text Generation: Linearization and Data Augmentation Strategies'),
+       author('Chris Kedzie and Kathleen McKeown'),
+       emnlp(2020)
+)
+
+entry!('haj2020financial',
+       title("The Financial Narrative Summarisation Shared Task"),
+       author("Mahmoud El-Haj and Ahmed AbuRa’ed and Marina Litvak and Nikiforos Pittaras and George Giannakopoulos"),
+       coling(2020)
+)
+
+entry!('kim2019abstractive',
+       title('Abstractive Summarization of Reddit Posts with Multi-level Memory Networks'),
+       author('Byeongchang Kim and Hyunwoo Kim and Gunhee Kim'),
+       naacl(2019)
+)

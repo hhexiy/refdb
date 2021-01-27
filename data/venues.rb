@@ -119,6 +119,7 @@ def aclijcnlp2009; [aclijcnlp(2009), address('Singapore')] end
 def acl2010; [acl(2010), address('Uppsala, Sweden')] end
 def acl2011; [acl(2011), address('Portland, Oregon')] end
 def emnlp(year); [inproceedings(Name.new('Empirical Methods in Natural Language Processing', 'EMNLP'), year)] end
+def emnlpfindings(year); [inproceedings(Name.new('Findings of Empirical Methods in Natural Language Processing', 'Findings of EMNLP'), year)] end
 def emnlp2008; [emnlp(2008), address('Honolulu, HI')] end
 def emnlp2009; [emnlp(2009), address('Singapore')] end
 def emnlp2010; [emnlp(2010), address('Cambridge, MA')] end
@@ -148,3 +149,4 @@ def cav(year); inproceedings(Name.new('Computer Aided Verification', 'CAV'), yea
 
 # Databases
 def icde(year); inproceedings(Name.new('International Conference on Data Engineering', 'ICDE'), year) end
+
