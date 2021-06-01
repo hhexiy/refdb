@@ -71,6 +71,7 @@ def itcs(year); inproceedings(Name.new('Innovations in Theoretical Computer Scie
 def esa(year); inproceedings(Name.new('European Symposium on Algorithms', 'ESA'), year) end
 def sigir(year); inproceedings(Name.new('ACM Special Interest Group on Information Retreival', 'SIGIR'), year) end
 def uist(year); inproceedings(Name.new('User Interface Software and Technology', 'UIST'), year) end
+def iui(year); inproceedings(Name.new('ACM Conference on Intelligent User Interfaces', 'IUI'), year) end
 def chi(year); inproceedings(Name.new('Conference on Human Factors in Computing Systems', 'CHI'), year) end
 def recsys(year); inproceedings(Name.new('ACM Conference on Recommender Systems', 'RECSYS'), year) end
 

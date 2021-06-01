@@ -1349,3 +1349,15 @@ entry!('kim2019abstractive',
        author('Byeongchang Kim and Hyunwoo Kim and Gunhee Kim'),
        naacl(2019)
 )
+
+entry!('clark2018creative',
+       title('Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories'),
+       author('Elizabeth Clark and Anne Ross and Chenhao Tan and Yangfeng Ji and and Noah A. Smith'),
+       iui(2018)
+)
+
+entry!('akoury2020storium',
+       title('{STORIUM}: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation'),
+       author('Nader Akoury and Shufan Wang and Josh Whiting and Stephen Hood and Nanyun Peng and and Mohit Iyyer'),
+       emnlp(2020)
+)
