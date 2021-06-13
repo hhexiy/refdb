@@ -1361,3 +1361,81 @@ entry!('akoury2020storium',
        author('Nader Akoury and Shufan Wang and Josh Whiting and Stephen Hood and Nanyun Peng and and Mohit Iyyer'),
        emnlp(2020)
 )
+
+entry!('wang2020exposure',
+       title('On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation'),
+       author('Chaojun Wang and Rico Sennrich'),
+       acl(2020)
+)
+
+entry!('ott2018analyzing',
+       title('Analyzing Uncertainty in Neural Machine Translation'),
+       author('Myle Ott and Michael Auli and David Grangier and Marc\'Aurelio Ranzato'),
+       icml(2018)
+)
+
+entry!('tian2020sticking',
+       title('Sticking to the Facts: Confident Decoding for Faithful Data-to-Text Generation'),
+       author('Ran Tian and Shashi Narayan and Thibault Sellam and Ankur P. Parikh'),
+       arxiv(2020, '1910.08684')
+)
+
+entry!('sellam2020bleurt',
+       title('BLEURT: Learning Robust Metrics for Text Generation'),
+       author('Thibault Sellam and Dipanjan Das and Ankur P. Parikh'),
+       acl(2020)
+)
+
+entry!('voita2021analyzing',
+       title('Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation'),
+       author('Elena Voita and Rico Sennrich and Ivan Titov'),
+       acl(2021)
+)
+
+entry!('sankar2019do',
+       title('Do Neural Dialog Systems Use the Conversation History Effectively? An Empirical Study'),
+       author('Chinnadhurai Sankar and Sandeep Subramanian and Christopher Pal and Sarath Chandar and Yoshua Bengio'),
+       acl(2019)
+)
+
+entry!('xu2021editor',
+       title('{EDITOR}: an Edit-Based Transformer with Repositioning for Neural Machine Translation with Soft Lexical Constraints'),
+       author('Weijia Xu and Marine Carpuat'),
+       tacl(2021, 9)
+)
+
+entry!('lu2021efficient',
+       title('On Efficient Training, Controllability and Compositional Generalization of Insertion-based Language Generators'),
+       author('Sidi Lu and Nanyun Peng'),
+       arxiv(2021, '2102.11008')
+  )
+
+entry!('narayan2021planning',
+       title('Planning with Entity Chains for Abstractive Summarization'),
+       author('Shashi Narayan and Yao Zhao and Joshua Maynez and Goncalo Simoes and Ryan McDonald'),
+       arxiv(2021, '2104.07606')
+)
+
+entry!('pang2021text',
+       title('Text Generation by Learning from Demonstrations'),
+       author('Richard Yuanzhe Pang and He He'),
+       iclr(2021)
+)
+
+entry!('shi2020why',
+       title('Why Neural Machine Translation Prefers Empty Outputs'),
+       author('Xing Shi and Yijun Xiao and Kevin Knight'),
+       arxiv(2020, '2012.13454')
+)
+
+entry!('kuleshov2018accurate',
+       title('Accurate Uncertainties for Deep Learning Using Calibrated Regression'),
+       author('Volodymyr Kuleshov and Nathan Fenner and Stefano Ermon'),
+       icml(2018)
+)
+
+entry!('callisonburch2006reevaluation',
+       title('Re-evaluating the Role of Bleu in Machine Translation Research'),
+       author('Chris Callison-Burch and Miles Osborne and Philipp Koehn'),
+       eacl(2006)
+      )
