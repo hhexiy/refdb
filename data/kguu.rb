@@ -561,7 +561,7 @@ entry!('brill1995transformation',
 nil)
 
 entry!('khandelwal2018sharp',
-  arxiv(2018, '1805.04623'),
+  acl(2018),
   title('Sharp nearby, fuzzy far away: How neural language models use context'),
   author('Urvashi Khandelwal and He He and Peng Qi and Dan Jurafsky'),
 nil)

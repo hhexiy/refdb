@@ -1349,3 +1349,41 @@ entry!('kim2019abstractive',
        author('Byeongchang Kim and Hyunwoo Kim and Gunhee Kim'),
        naacl(2019)
 )
+
+entry!('choi2018mrqa',
+  author('Eunsol Choi and Minjoon Seo and Danqi Chen and Robin Jia and Jonathan Berant'),
+  title('Machine Reading for Question Answering'),
+  type('misc'),
+  howpublished('\url{https://mrqa.github.io/2018/}'),
+  year(2018),
+nil)
+
+entry!('gebru2018datasheets',
+  author('Timnit Gebru and Jamie Morgenstern and Briana Vecchione and Jennifer Wortman Vaughan and Hanna Wallach and Hal {Daume III} and Kate Crawford'),
+  title('Datasheets for Datasets'),
+  arxiv(2018, '1803.09010')
+)
+
+entry!('blodgett2020language',
+  author('Su Lin Blodgett and Solon Barocas and Hal {Daume III} and Hanna Wallach'),
+  title('Language (Technology) is Power: A Critical Survey of "Bias" in {NLP}'),
+  acl(2020)
+)
+
+entry!('joshi2021investigation',
+  author('Nitish Joshi and He He'),
+  title('An Investigation of the (In)Effectiveness of Counterfactually Augmented Data'),
+  inproceedings('Proceedings of the ICLR Workshop on RobustML', 2021),
+)
+
+entry!('he2019pun',
+  title('Pun Generation with Surprise'),
+  author('He He and Nanyun Peng and Percy Liang'),
+  naacl(2019),
+)
+
+entry!('pang2021gold',
+  title('Text Generation by Learning from Demonstrations'),
+  author('Richard Yuanzhe Pang and He He'),
+  iclr(2021)
+)
