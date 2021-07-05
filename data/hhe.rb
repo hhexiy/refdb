@@ -1471,3 +1471,15 @@ entry!('callisonburch2006reevaluation',
        author('Chris Callison-Burch and Miles Osborne and Philipp Koehn'),
        eacl(2006)
       )
+
+entry!('ribeiro2020beyond',
+       title('Beyond Accuracy: Behavioral Testing of {NLP} Models with CheckList'),
+       author('Marco Tulio Ribeiro and Tongshuang Wu and Carlos Guestrin and Sameer Singh'),
+       acl(2020)
+      )
+
+entry!('swayamdipta2020dataset',
+       title('Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics'),
+       author('Swabha Swayamdipta and Roy Schwartz and Nicholas Lourie and Yizhong Wang and Hannaneh Hajishirzi and Noah A. Smith and Yejin Choi'),
+       emnlp(2020)
+      )
